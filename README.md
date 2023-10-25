@@ -1,2 +1,2 @@
-# react-quill-image
+# quiladvanced
 Created with CodeSandbox
